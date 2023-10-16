@@ -1,4 +1,4 @@
-Todo App
+# Todo App
 
 Todo App Screenshot
 
@@ -8,13 +8,13 @@ Todo App Screenshot
 This is a simple To-Do application built using Python Eel, HTML, CSS, and JavaScript. It provides a straightforward and user-friendly interface to manage your tasks and stay organized. You can add, edit, and remove tasks, and the application automatically saves your tasks in a JSON file, making it easy to pick up where you left off.
 Features
 
-    Add Tasks: You can easily add new tasks to your to-do list by typing them into the input field and pressing "+".
+* Add Tasks: You can easily add new tasks to your to-do list by typing them into the input field and pressing "+".
 
-    Edit Tasks: To edit a task,You can enter the task title in the input field and press "Edit" to save your changes.
+* Edit Tasks: To edit a task,You can enter the task title in the input field and press "Edit" to save your changes.
 
-    Remove Tasks: To delete a task, click the "Del" next to the task you want to remove.
+* Remove Tasks: To delete a task, click the "Del" next to the task you want to remove.
 
-    Data Persistence: Your tasks are automatically saved to a JSON file, so you won't lose any of your progress even if you close the application.
+* Data Persistence: Your tasks are automatically saved to a JSON file, so you won't lose any of your progress even if you close the application.
 
 Prerequisites
 
